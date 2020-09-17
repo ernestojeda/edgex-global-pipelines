@@ -1,6 +1,7 @@
 # edgex-global-pipelines
 
 ![build-status](https://jenkins.edgexfoundry.org/job/edgexfoundry/job/edgex-global-pipelines/job/master/badge/icon)
+![semver-version](https://thread-frosted-protest.glitch.me/r)
 
 ## About
 
