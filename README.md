@@ -2,6 +2,8 @@
 
 ![build-status](https://jenkins.edgexfoundry.org/job/edgexfoundry/job/edgex-global-pipelines/job/master/badge/icon)
 ![semver-version](https://thread-frosted-protest.glitch.me/r?repo=https://github.com/edgexfoundry/edgex-global-pipelines.git)
+![stable-version](https://thread-frosted-protest.glitch.me/t?repo=https://github.com/edgexfoundry/edgex-global-pipelines.git&tag=stable)
+![experimental-version](https://thread-frosted-protest.glitch.me/t?repo=https://github.com/edgexfoundry/edgex-global-pipelines.git&tag=experimental)
 
 ## About
 
